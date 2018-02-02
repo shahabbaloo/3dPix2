@@ -93,6 +93,9 @@
     <EmbeddedResource Include="FormPatternOnSecondary.resx">
       <DependentUpon>FormPatternOnSecondary.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormStereo.resx">
+      <DependentUpon>FormStereo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>

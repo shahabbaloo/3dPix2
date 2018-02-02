@@ -22,3 +22,4 @@ C:\Users\Shahab\documents\visual studio 2015\Projects\Scanner-2\Scanner-2\obj\De
 C:\Users\Shahab\documents\visual studio 2015\Projects\Scanner-2\Scanner-2\obj\Debug\Scanner-2.exe
 C:\Users\Shahab\documents\visual studio 2015\Projects\Scanner-2\Scanner-2\obj\Debug\Scanner-2.pdb
 C:\Users\Shahab\documents\visual studio 2015\Projects\Scanner-2\Scanner-2\obj\Debug\Scanner-2.csprojResolveAssemblyReference.cache
+C:\Users\Shahab\Documents\Visual Studio 2015\Projects\Scanner-2\Scanner-2\obj\Debug\Scanner_2.FormStereo.resources
